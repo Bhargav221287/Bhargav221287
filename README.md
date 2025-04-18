@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Bhargav221287
-- 👀 I’m interested in anime
-- 🌱 I’m currently learning linux and c program
-- 💞️ I’m looking to collaborate on linux
-- 📫 How to reach me 7981366741
+# 👋 Hi, I'm Bhargav! 
 
-<!---
-Bhargav221287/Bhargav221287 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**`Computer Science Enthusiast | Anime Lover | Linux Explorer`**
+
+## 🚀 About Me
+
+- 🌱 Currently learning **Linux system programming** and **C language**
+- 👀 Passionate about **anime** and **open-source technologies**
+- 💞️ Looking to collaborate on **Linux-based projects**
+- 📫 Reach me: **📞 7981366741** | **📧 [your-email@example.com]**
+
+🖥️ Systems:  Linux [Ubuntu, Arch] | Bash Scripting
+💻 Languages: C | Python | JavaScript (Beginner) | C++ | HTML (Beginner) |
+🔧 Tools:     Git | Vim | VS Code
